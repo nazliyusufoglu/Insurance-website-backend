@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business\\Abstract",
+    "\\Business\\Concrete",
+    "\\Core\\DataAccess",
+    "\\Core\\DataAccess\\EntityFramework",
+    "\\Core\\Entities",
+    "\\Data_access",
+    "\\Data_access\\Abstract",
+    "\\Data_access\\Concrete",
+    "\\Data_access\\Concrete\\EntityFramework"
+  ],
+  "SelectedNode": "\\back-end.sln",
+  "PreviewInSolutionExplorer": false
+}

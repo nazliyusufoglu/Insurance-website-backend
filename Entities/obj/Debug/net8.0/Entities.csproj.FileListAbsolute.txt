@@ -1,0 +1,120 @@
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\back-end\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\back-end\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\back-end\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\back-end\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\back-end\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\back-end\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\Entities\obj\Debug\net8.0\ref\Entities.dll

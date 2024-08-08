@@ -1,0 +1,112 @@
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data-access\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data-access\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data-access\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data-access\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data-access\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Data_access\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Data_access\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Data_access\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Data_access\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end - Kopya\Data_access\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\reactstaj\Back-end-app\back-end\Data_access\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\back-end kopya\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya\back-end\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya add get düzenleme\back-end\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya server\back-end\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\NAZLI\Desktop\kopya server (add delete update çalışıyor\back-end\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
