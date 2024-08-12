@@ -8,7 +8,7 @@ This project was created to develop the backend API for an insurance website. It
 - SQL Server
 
 ## File and Folder Structure
-- `/Controllers`: API controllers.
+- `/Web-api/Controllers`: API controllers.
 - `/Business`: Business logic and services.
 - `/Core`: Interfaces, general services.
 - `/DataAccess`: Data access layer.
